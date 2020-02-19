@@ -1,0 +1,119 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Badge suite Render badge with active=false 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignSelf": "flex-start",
+        "backgroundColor": "#ED1727",
+        "borderRadius": 13.5,
+        "height": 27,
+        "justifyContent": "center",
+        "paddingBottom": 3,
+        "paddingLeft": 6,
+        "paddingRight": 6,
+        "paddingTop": 3,
+      },
+      Object {
+        "backgroundColor": "#c0311a",
+      },
+      "",
+      Object {
+        "height": 10,
+        "minWidth": 10,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+          "fontFamily": "System",
+          "fontSize": 15,
+          "lineHeight": 19,
+          "paddingLeft": 3,
+          "paddingRight": 3,
+          "textAlign": "center",
+        },
+        Object {
+          "color": "#ffffff",
+        },
+        "",
+        Object {
+          "fontSize": 10,
+        },
+        Object {
+          "lineHeight": 10,
+        },
+      ]
+    }
+    uppercase={false}
+  >
+    Sample Text
+  </Text>
+</View>
+`;
+
+exports[`Badge suite Render badge with active=true 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "alignSelf": "flex-start",
+        "backgroundColor": "#ED1727",
+        "borderRadius": 13.5,
+        "height": 27,
+        "justifyContent": "center",
+        "paddingBottom": 3,
+        "paddingLeft": 6,
+        "paddingRight": 6,
+        "paddingTop": 3,
+      },
+      Object {
+        "backgroundColor": "#c0311a",
+      },
+      Object {
+        "backgroundColor": "#ffffff",
+      },
+      Object {
+        "height": 10,
+        "minWidth": 10,
+      },
+    ]
+  }
+>
+  <Text
+    style={
+      Array [
+        Object {
+          "color": "#fff",
+          "fontFamily": "System",
+          "fontSize": 15,
+          "lineHeight": 19,
+          "paddingLeft": 3,
+          "paddingRight": 3,
+          "textAlign": "center",
+        },
+        Object {
+          "color": "#ffffff",
+        },
+        Object {
+          "color": "#c0311a",
+        },
+        Object {
+          "fontSize": 10,
+        },
+        Object {
+          "lineHeight": 10,
+        },
+      ]
+    }
+    uppercase={false}
+  >
+    Sample Text
+  </Text>
+</View>
+`;

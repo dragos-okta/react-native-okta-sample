@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1069548146987",
+    "firebase_url": "https://comsalsa2.firebaseio.com",
+    "project_id": "comsalsa2",
+    "storage_bucket": "comsalsa2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1069548146987:android:3a687fdf8fa2ec59ccb56e",
+        "android_client_info": {
+          "package_name": "com.salsa2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1069548146987-b2qrfmrgav2fa8ui3ipsitf71lfrolg2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACfFtiejG-3ClxSq-szUbBviEGIh_39LM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1069548146987-b2qrfmrgav2fa8ui3ipsitf71lfrolg2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
